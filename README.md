@@ -1,4 +1,4 @@
-# Converter
+# Binary->Decimal/Decimal->Binary Converter
 
 This is a simple converter program.
 This program is converting binary numbers to decimal and vice-versa.
