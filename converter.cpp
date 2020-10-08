@@ -103,7 +103,7 @@ int main(){
                 throw _ERRNO_H;
             }
            else{
-               break;
+               flag = 0;
            }
 
         }
